@@ -12,6 +12,6 @@ class helper
 {
     public function index()
     {
-        echo "This is Help Class!";
+        echo "This is Help Class And Function!";
     }
 }
