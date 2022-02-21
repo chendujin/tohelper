@@ -1,0 +1,23 @@
+{
+    "name": "chendujin/tohelper",
+    "description": "tohelper && check",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "thomas.chen",
+            "email": "thomas.chen@huolala.cn"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "minimum-stability": "dev",
+    "require": {
+        "php":">=7.1"
+    },
+    "autoload":{
+        "psr-4":{
+	        "Tohelper\\Library\\":"src/Tohelper/Library"
+        }
+    }
+}
